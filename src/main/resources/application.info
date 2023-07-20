@@ -1,0 +1,15 @@
+application.type=widget
+application.code=widgetlivecode
+application.title=Rafael V3
+application.description=Rafael Descrição
+application.category=SYSTEM
+application.renderer=freemarker
+application.icon=icon.png
+application.uiwidget=true
+developer.code=TOTVS
+developer.name=TOTVS S.A.
+developer.url=http\://www.totvs.com
+view.file=view.ftl
+locale.file.base.name=widgetlivecode
+simple.deploy=true
+application.mobileapp=false
