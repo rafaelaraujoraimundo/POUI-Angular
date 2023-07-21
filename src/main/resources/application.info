@@ -1,6 +1,6 @@
 application.type=widget
 application.code=widgetlivecode
-application.title=Rafael V3
+application.title=Rafael V.0.2.0
 application.description=Rafael Descrição
 application.category=SYSTEM
 application.renderer=freemarker
